@@ -7,8 +7,6 @@ I do not claim everything as mine, cause I am uncertain whether someone already 
     While attending class, I tried to draw a sorting simulation in my notebook, and my classmate turned it into C/C++ code—and it really works.
     
     Super Sort performs gap-based swaps with gaps of 2 and 3, includes adjacent refinement, executes forward and backward passes, and checks for sortedness; it combines elements of Bubble Sort, Cocktail Shaker Sort (bidirectional Bubble Sort), Shell Sort, Odd-Even Sort (Brick Sort), and Insertion Sort.
-    
-    Upon searching, I found that there isn’t an existing hybrid sorting algorithm like this, so I can claim to be the first.
 
     ```
     Given arr = [7, 3, 8, 1, 5, 2, 6, 4]:
@@ -53,6 +51,7 @@ I do not claim everything as mine, cause I am uncertain whether someone already 
     ```
 
     This is somewhat similar to the concept of counting sort; it just uses a map.
+
 
 
 
